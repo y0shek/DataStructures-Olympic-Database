@@ -1,0 +1,6 @@
+Maximo Hartmann,Relay,Long jump
+Marguerite Ankunding,100-meter,High jump,long jump
+Rebeka Doyle,long jump,100-meter,relay
+Thurman Mills,high jump,pole vault
+Helena Halvorson,pole vault,long jump
+Dalton Leannon,400-meter,100-meter
